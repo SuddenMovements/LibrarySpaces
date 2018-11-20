@@ -1,5 +1,5 @@
 # TODO -- Fix OSError bug.
-# TODO -- Check the image quality. 
+# TODO -- Check the image quality.
 
 import requests
 import pprint
